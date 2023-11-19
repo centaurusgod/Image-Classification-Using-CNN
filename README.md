@@ -12,7 +12,7 @@ This is an example of image classification done using convolution neural network
   - ![CUDA Version](https://i.ibb.co/YjgYjYb/cuda.png)
   - Download Link: [CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 - **cuDNN Version:** 8.7
-  - ![cuDNN Version](https://i.ibb.co/YjgYjYb/cudnn.png)
+  - ![cuDNN Version](https://ibb.co/YjgYjYb)
   - Download Link: [cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive#a-collapse870-118)
 - **TensorFlow Version:** 2.5
 - **NumPy Version:** 1.19.5
