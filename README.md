@@ -9,8 +9,10 @@ This is an example of image classification done using convolution neural network
 - **OS:** Windows 11
 - **Graphics Card:** Nvidia GTX 1650 4GB vRAM
 - **CUDA Version:** 11.8
+  - ![CUDA Version](https://i.ibb.co/YjgYjYb/cuda.png)
   - Download Link: [CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 - **cuDNN Version:** 8.7
+  - ![cuDNN Version](https://i.ibb.co/YjgYjYb/cudnn.png)
   - Download Link: [cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive#a-collapse870-118)
 - **TensorFlow Version:** 2.5
 - **NumPy Version:** 1.19.5
@@ -57,4 +59,5 @@ To set up an Anaconda environment with TensorFlow, follow these steps:
     python -m ipykernel install --user --name tensorflow-gpu --display-name "Python 3.8 (tensorflow-gpu)"
     ```
 
-After opening Jupyter Notebook, change the kernel from Python to Python 3.8 (tensorflow-gpu) to leverage the TensorFlow environment.
+
+After opening Jupyter Notebook, change the kernel from Python to Python 3.8 (tensorflow-gpu) 
