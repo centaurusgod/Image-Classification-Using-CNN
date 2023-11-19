@@ -9,10 +9,10 @@ This is an example of image classification done using convolution neural network
 - **OS:** Windows 11
 - **Graphics Card:** Nvidia GTX 1650 4GB vRAM
 - **CUDA Version:** 11.8
-  - ![CUDA Version](https://i.ibb.co/YjgYjYb/cuda.png)
+  - ![CUDA Version](./guide/cuda version.png)
   - Download Link: [CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 - **cuDNN Version:** 8.7
-  - ![cuDNN Version](https://ibb.co/YjgYjYb)
+  - ![cuDNN Version](./guide/cuDNN version.png)
   - Download Link: [cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive#a-collapse870-118)
 - **TensorFlow Version:** 2.5
 - **NumPy Version:** 1.19.5
