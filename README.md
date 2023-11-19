@@ -1,5 +1,7 @@
 # Image-Classification-Using-CNN
-This is an example of image classification done using convolution neural network. Note that this works only for binary image classification and one needs to modify the code to make it work for classification of multiple classes. 
+
+This is an example of image classification done using a convolutional neural network. Note that this works only for binary image classification, and one needs to modify the code to make it work for the classification of multiple classes.
+
 ## NVIDIA GPU Driver Installation
 
 1. Install the latest NVIDIA GPU driver for your device from [NVIDIA's official website](https://www.nvidia.com/Download/index.aspx).
@@ -9,10 +11,10 @@ This is an example of image classification done using convolution neural network
 - **OS:** Windows 11
 - **Graphics Card:** Nvidia GTX 1650 4GB vRAM
 - **CUDA Version:** 11.8
-  - ![CUDA Version](guide/cuda version.png)
+  - ![CUDA Version](guide/cuda%20version.png)
   - Download Link: [CUDA 11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 - **cuDNN Version:** 8.7
-  - ![cuDNN Version](guide/cuDNN version.png)
+  - ![cuDNN Version](guide/cuDNN%20version.png)
   - Download Link: [cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive#a-collapse870-118)
 - **TensorFlow Version:** 2.5
 - **NumPy Version:** 1.19.5
@@ -59,5 +61,4 @@ To set up an Anaconda environment with TensorFlow, follow these steps:
     python -m ipykernel install --user --name tensorflow-gpu --display-name "Python 3.8 (tensorflow-gpu)"
     ```
 
-
-After opening Jupyter Notebook, change the kernel from Python to Python 3.8 (tensorflow-gpu) 
+After opening Jupyter Notebook, change the kernel from Python to Python 3.8 (tensorflow-gpu).
