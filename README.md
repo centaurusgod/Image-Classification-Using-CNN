@@ -2,6 +2,11 @@
 
 This is an example of image classification done using a convolutional neural network. Note that this works only for binary image classification, and one needs to modify the code to make it work for the classification of multiple classes.
 
+## Expected Output
+
+- **Output**
+  -![*](guide/result.jpg)
+
 ## NVIDIA GPU Driver Installation
 
 1. Install the latest NVIDIA GPU driver for your device from [NVIDIA's official website](https://www.nvidia.com/Download/index.aspx).
